@@ -1,0 +1,9 @@
+flags: {}
+packages:
+- .
+extra-deps:
+- GPX-0.8.0
+- comonad-transformers-4.0
+- data-lens-2.11.2
+- xsd-0.3.7
+resolver: lts-12.26
